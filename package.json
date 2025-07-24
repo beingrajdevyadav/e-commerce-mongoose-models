@@ -1,0 +1,11 @@
+{
+  "name": "e-commorce-models",
+  "version": "1.0.0",
+  "description": "a ecommerce mongoose models practice serios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajdev yadav",
+  "license": "ISC"
+}
